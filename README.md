@@ -5,7 +5,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solracjunio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div style="display: inline_block"><br>
-   <img align="center" alt="Carlos-Af" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
    <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Carlos-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
    <img align="center" alt="Carlos-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
