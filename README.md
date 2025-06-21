@@ -7,7 +7,3 @@
 <details>
   <summary>:zap: Most Used Languages</summary><img align="left" alt="Syrine's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solracjunio" />
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary><img align="left" alt="Syrine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=solracjunio&show_icons=true&hide_border=true" />
-</details>
