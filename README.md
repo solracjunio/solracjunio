@@ -11,7 +11,7 @@ I care about correct money math, tests that prove business rules, and code that 
 
 An open-source API and web app for business partners who run a shared venture together.
 Each partner logs expenses with receipts, everyone gets notified in real time, disagreements go to a vote, and the system calculates a fair final settlement.
-It is being built for real use: my family will use it to manage a house construction in 2027.
+It is being built for real use: three partners will use it to manage a house construction in 2027.
 
 - **Stack:** TypeScript, NestJS, React (Vite), PostgreSQL, Docker Compose, GitHub Actions (pnpm monorepo)
 - **Design:** money as integer cents, weighted split with the largest remainder method, domain rules as pure functions with tests, and every decision recorded as an [ADR](https://github.com/solracjunio/partneroj/tree/main/docs/adr)
